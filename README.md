@@ -1,1 +1,1 @@
-# compass-sample
+# Example compass application
