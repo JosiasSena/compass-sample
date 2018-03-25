@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CompassSample</string>
+    <string name="compass_needle">Compass needle</string>
+    <string name="compass">Compass</string>
+</resources>
